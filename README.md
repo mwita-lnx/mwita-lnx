@@ -1,6 +1,6 @@
 ---
 
-### 👋 Hello, I'm [Your Name] (@mwita-lnx)!
+### 👋 Hello, I'm  (@mwita-lnx)!
 
 Welcome to my GitHub profile! I'm deeply passionate about Software Development and the exciting possibilities within the Internet of Things (IoT).
 
